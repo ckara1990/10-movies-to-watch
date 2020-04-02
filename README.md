@@ -1,3 +1,6 @@
 # 10-movies-to-watch
 10 must seen movies
-hangover
+* hangover
+* the notebook
+* titanic
+* stepmom
